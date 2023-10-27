@@ -24,4 +24,4 @@ Grade Calculator is a simple web application that calculates the final grade bas
 ![](not.gif)
 
 
-You can see the project from this link: 
+You can see the project from this link: https://gradecalculatorjs.netlify.app
